@@ -1,8 +1,8 @@
 {
-  "name": "pengubot",
+  "name": "WDSPrivate",
   "version": "2.0.6",
-  "description": "PenguBot Rewrite for Performance and Stability.",
-  "main": "start.js",
+  "description": "fzefzeflity.",
+  "main": "WDSPrivate.js",
   "scripts": {
     "start": "node start",
     "test": "eslint .",

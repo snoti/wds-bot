@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const prefix = ("$");
+const prefix = ("*");
 const start = Date.now();
 const token = process.env.TOKEN
 const ClientID = "263806633245802496"

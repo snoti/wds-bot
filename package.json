@@ -1,56 +1,15 @@
+
 {
-  "name": "WDSPrivate",
-  "version": "2.0.6",
-  "description": "fzefzeflity.",
+  "name": "wds-bot",
+  "version": "1.0.0",
+  "description": "self bot",
   "main": "WDSPrivate.js",
   "scripts": {
-    "start": "node start",
-    "test": "eslint .",
-    "lint": "eslint --fix ."
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AdityaTD/PenguBot.git"
-  },
-  "keywords": [
-    "pengubot",
-    "pengu",
-    "bot",
-    "discord",
-    "bot",
-    "discord"
-  ],
-  "author": "Aditya Nath Tripathi",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/AdityaTD/PenguBot/issues"
-  },
-  "homepage": "https://github.com/AdityaTD/PenguBot#readme",
+  "author": "ZebulonDesigns",
+  "license": "GPL-3.0",
   "dependencies": {
-    "@discordjs/uws": "^11.149.1",
-    "breadtags": "^1.0.2",
-    "canvas": "^2.3.1",
-    "canvas-constructor": "github:kyranet/canvasConstructor",
-    "cheerio": "^1.0.0-rc.2",
-    "discord.js": "github:discordjs/discord.js#73be952406e54cb7626bc0f07085a32b7462126c",
-    "discord.js-lavalink": "github:MrJacz/discord.js-lavalink",
-    "erlpack": "github:discordapp/erlpack",
-    "google-translate-api": "^2.3.0",
-    "hot-shots": "^6.1.1",
-    "idiotic-api": "github:YorkAARGH/Idiotic-Wrapper",
-    "klasa": "github:dirigeants/klasa#1a13c417c4b0722c5c04bb54d99e5dccf4093b92",
-    "klasa-dashboard-hooks": "github:PenguBot/klasa-dashboard-hooks",
-    "klasa-functions": "github:KlasaCommunityPlugins/functions",
-    "klasa-member-gateway": "github:dirigeants/klasa-member-gateway",
-    "long": "^4.0.0",
-    "raven": "^2.6.4",
-    "rethinkdbdash": "^2.3.31",
-    "twemoji": "^11.0.1",
-    "zlib-sync": "^0.1.4"
-  },
-  "devDependencies": {
-    "eslint": "5.14.1",
-    "eslint-plugin-node": "^8.0.0",
-    "eslint-plugin-promise": "^4.0.1"
+    "discord.js": "^11.2.1"
   }
 }

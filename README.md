@@ -1,2 +1,0 @@
-# wds-bot
-wds-bot
